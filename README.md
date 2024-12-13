@@ -2,7 +2,7 @@
 
 ## Overview
 
-Python script uses gNOI File Stat RPC to retrieve metadata about a file or remove a file.
+Python script uses gNOI File Stat/Remove RPC to retrieve metadata about a file or remove a file.
 
 ---
 
